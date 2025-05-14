@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*?SA
+Disallow: /cgi-bin/
+Sitemap: https://mu.mumbainyte.com/sitemap.xml
